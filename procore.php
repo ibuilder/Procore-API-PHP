@@ -12,4 +12,5 @@
 
 
 require_once(plugin_dir_path(__FILE__).'/settings.php');
+require_once(plugin_dir_path(__FILE__).'/class_api.php');
 require_once(plugin_dir_path(__FILE__).'/class_dailylog.php');
